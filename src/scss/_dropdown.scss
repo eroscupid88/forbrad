@@ -1,0 +1,14 @@
+nav#responsive {
+    background: #34495e;
+    font-family: 'Raleway', sans-serif;
+    height: 100vh;
+    overflow: auto;
+    position: fixed;
+    left: -100%;
+    width: 100%;
+    top: 0;
+    max-width: 100%;
+    text-transform: uppercase;
+    transition: .5s ease-in-out;
+    z-index: 10;
+  }
